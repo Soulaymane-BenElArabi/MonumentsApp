@@ -1,0 +1,7 @@
+{
+  "name": "miniProjet",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
